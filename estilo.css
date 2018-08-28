@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+}
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    margin: 0px;
+}
+
+#cabecalho {
+    background-color: #6175f0;
+    color: white;
+}
+
+#cabecalho h2 {
+    font-family: 'Times New Roman', serif;
+}
