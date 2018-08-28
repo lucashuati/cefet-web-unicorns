@@ -9,8 +9,73 @@ h1 {
 #cabecalho {
     background-color: #6175f0;
     color: white;
+    padding: 20px 34px 13px 34px;
 }
 
 #cabecalho h2 {
     font-family: 'Times New Roman', serif;
+    margin: 0px;
 }
+
+#verdade img {
+    width: 310px;
+    margin-right: 13px;
+    float: left;
+}
+
+h2 {
+    font-weight: 200;
+    font-family: 'Times New Roman';
+    font-size: 24px;
+}
+
+h3 {
+    font-weight: 100;
+    font-size: 18px;
+    font-family: 'Arial';
+}
+
+#hoje {
+    float: right;
+    width: 405px;
+    padding: 20px 35px 30px 35px;
+    background-color: #f8cef7;
+    border: 1px solid #ff56fb;
+    margin: 25px;
+    text-align: center;
+}
+
+#hoje img {
+    width: 112px;
+    height: 112px;
+    margin: 0 auto;
+    display: block;
+}
+
+#musica {
+    margin: 0px;
+}
+
+#musica p, #musica h2 {
+    padding: 5px 12px;
+}
+
+#musica p:nth-child(odd) {
+    padding: 5px 34px;
+}
+
+.destacado {
+    background-color: #c4caf3;
+    color: #004a79;
+    padding: 5px 10px;
+}
+
+#musica .destacado p {
+    padding: 5px 12px;
+}
+
+
+#musica .destacado p:nth-child(even) {
+    padding: 5px 34px;
+}
+
